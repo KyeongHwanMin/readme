@@ -1,7 +1,7 @@
 ![logo](https://static.wanted.co.kr/images/events/3178/58ac3248.jpg)
 
-# 메일 정리 자동화 웹서비스
-고객의 메세지를 태그, 스팸 처리 등 자동으로 분류해주는 웹 서비스
+# 소셜 미디어 통합 Feed 서비스
+해시태그를 기반으로 SNS에 게시된 게시물을 통합 하는 서비스 입니다.
 
 <br/>
 
@@ -32,7 +32,7 @@
 
 
 ## Skils
-가상환경: ![Static Badge](https://img.shields.io/badge/Conda-green)<br/>언어 및 프레임워크: ![Static Badge](https://img.shields.io/badge/Python-3.10-blue) ![Static Badge](https://img.shields.io/badge/Django-REST-red)<br/>
+가상환경: ![Static Badge]([https://img.shields.io/badge/Venv-blue](https://img.shields.io/badge/Venv-blue))<br/>언어 및 프레임워크: ![Static Badge](https://img.shields.io/badge/Python-3.10-blue) ![Static Badge](https://img.shields.io/badge/Django-REST-red)<br/>
 데이터 베이스: ![Static Badge](https://img.shields.io/badge/Postgresql-9.2.4-blue) <br/>
 배포 : ![Static Badge](https://img.shields.io/badge/Docker-039BC6) ![Static Badge](https://img.shields.io/badge/AWS-EC2-orange) ![Static Badge](https://img.shields.io/badge/Github-Actions-black)  <br/> ETC : ![Static Badge](https://img.shields.io/badge/Celery-black) ![Static Badge](https://img.shields.io/badge/Redis-red)
 
